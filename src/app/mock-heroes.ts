@@ -9,6 +9,6 @@ export const HEROES: Hero[] = [
 {id: 16, name: "Spiderman", edad: 20, poder:"Agilidad y fuerza", identidad: "Peter Parker", mundo: "Marvel"},
 {id: 17, name: "Black Widow", edad: 28, poder:"Estrategia, artes marciales", identidad: "Natasha", mundo: "Marvel"},
 {id: 18, name: "Flash", edad: 28, poder:"Fuerza de velocidad", identidad: "Barry Allen", mundo: "DC"},
-{id: 19, name: "Bruja Escarlata", edad: 36, poder:"Desconocidp", identidad: "Wanda", mundo: "Marvel"},
+{id: 19, name: "Bruja Escarlata", edad: 36, poder:"Desconocido", identidad: "Wanda", mundo: "Marvel"},
 {id: 20, name: "Wonder Woman", edad: 30, poder:"Super Fuerza", identidad: "Diana", mundo: "DC"}
 ];
